@@ -144,6 +144,9 @@ Dimensional modelling was chosen to:
 
 This approach separates descriptive attributes into dimensions and measurable values into a central fact table.
 
+<img width="847" height="535" alt="image" src="https://github.com/user-attachments/assets/232d83ee-34fe-4fd6-aad1-cae5cb3fc32a" />
+
+
 ---
 
 ### 4.2 Dimension Tables Created
